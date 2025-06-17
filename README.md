@@ -14,7 +14,7 @@ Requirements:
 ## Files Description
 The **/raw_data_snips** contains the snips dataset.
 
-The **retriever.py** can construct data with retrieved examples from other domains (except current domain and target domain).
+The **retriever.py** can construct data with retrieved examples from other domains (except itself and target domain).
 
 The **reader.py** can read dataset for training, validation and testing.
 
