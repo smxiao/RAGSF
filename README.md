@@ -24,5 +24,5 @@ The **config.py** can set the files path and hyper parameters.
 
 The **train_main.py** can perform model training and testing.
 
-# Notes and Acknowledgments
+## Notes and Acknowledgments
 The implementation is based on [https://github.com/LiXuefeng2020ai/GZPL](https://github.com/LiXuefeng2020ai/GZPL)
